@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "pub_date": "2026-09-01T00:00:00Z",
+  "notes": "Short, user-facing changelog. Shown verbatim in the update prompt.",
+  "minimum_version": "0.0.0",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/jacobWeeces/laurelledictation-releases/releases/download/v1.0.0/Laurelle-Setup-1.0.0.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0,
+      "signature": ""
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/jacobWeeces/laurelledictation-releases/releases/download/v1.0.0/Laurelle-1.0.0-macos-arm64.dmg",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0,
+      "signature": ""
+    }
+  }
+}
